@@ -2,20 +2,20 @@
 
 ## TAG
 
-![](algorithme-TAG.svg)
+[![](algorithme-TAG.svg)](https://raw.githubusercontent.com/troubles-anxieux/algo/main/algorithme-TAG.svg)
 
 ## SSPT
 
-![](algorithme-SSPT.svg)
+[![](algorithme-SSPT.svg)](https://raw.githubusercontent.com/troubles-anxieux/algo/main/algorithme-SSPT.svg)
 
 ## Phobie Sociale
 
-![](algorithme-phobie-sociale.svg)
+[![](algorithme-phobie-sociale.svg)](https://raw.githubusercontent.com/troubles-anxieux/algo/main/algorithme-phobie-sociale.svg)
 
 ## Trouble Panique
 
-![](algorithme-trouble-panique.svg)
+[![](algorithme-trouble-panique.svg)](https://raw.githubusercontent.com/troubles-anxieux/algo/main/algorithme-trouble-panique.svg)
 
 ## TOC
 
-![](algorithme-TOC.svg)
+[![](algorithme-TOC.svg)](https://raw.githubusercontent.com/troubles-anxieux/algo/main/algorithme-TOC.svg)
